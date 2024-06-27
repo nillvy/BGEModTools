@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BGEModTools": {
+      "commandName": "Project",
+      "commandLineArgs": "-i Engine.pak\r\n-minsize 1024"
+    }
+  }
+}
