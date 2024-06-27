@@ -28,3 +28,6 @@ BGEModTools -i Resources.pak
 | -------- |----------------------- | ------- |
 | -i       | location of input file |         |
 | -minsize | filter for small files | 1024    |
+
+## Reference
+- Thanks to bartlomiejduda. I referenced their tools project when looking for clarification on some of the pak variables!
