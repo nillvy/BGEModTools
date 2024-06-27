@@ -1,7 +1,7 @@
 # BGEModTools
 Tools for modifying Beyond Good and Evil (20th Anniversary)
 
-This tool can be used to extract a pak archive into folders containing all the known resources inside (with file extensions where known)
+This tool can curerently be used to extract a pak archive into folders containing all the known resources inside (with file extensions where known). I have hopes to expand into a broader moding suite that allows editing and repacking of assets.
 
 ## Currently Working
 - Extraction of files from PAK archive.
